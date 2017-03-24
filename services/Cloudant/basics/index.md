@@ -156,3 +156,5 @@ which might impact performance or the cost of using the database.
 >   **Note**: Continuous replication can result in a large number of internal calls.
     This might affect costs for multi-tenant users of Cloudant systems.
     Continuous replication is disabled by default.
+
+Use our [replication guide](https://console.ng.bluemix.net/docs/services/Cloudant/guides/replication_guide.html#replication) to get started.
